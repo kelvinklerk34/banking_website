@@ -1,0 +1,7 @@
+[03-Sep-2021 02:39:37 America/New_York] PHP Notice:  Undefined index: fname in /home/archqjoy/theempirebank.com/contactengine.php on line 6
+[03-Sep-2021 02:39:37 America/New_York] PHP Notice:  Undefined index: email in /home/archqjoy/theempirebank.com/contactengine.php on line 9
+[03-Sep-2021 02:39:37 America/New_York] PHP Notice:  Undefined index: subject in /home/archqjoy/theempirebank.com/contactengine.php on line 10
+[30-Nov-2021 12:29:30 America/New_York] PHP Notice:  Undefined index: fname in /home/archqjoy/theempirebank.com/contactengine.php on line 6
+[30-Nov-2021 12:29:30 America/New_York] PHP Notice:  Undefined index: email in /home/archqjoy/theempirebank.com/contactengine.php on line 9
+[30-Nov-2021 12:29:30 America/New_York] PHP Notice:  Undefined index: subject in /home/archqjoy/theempirebank.com/contactengine.php on line 10
+[30-Nov-2021 12:29:30 America/New_York] PHP Notice:  Undefined index: message in /home/archqjoy/theempirebank.com/contactengine.php on line 12
